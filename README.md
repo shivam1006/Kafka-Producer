@@ -1,7 +1,7 @@
 # Kafka-Producer
 
 
-By below mentioned steps you can setup kafka in your localand then kafka consumer running to read for messages published using kafka producer api 
+By below mentioned steps you can setup kafka in your local and then keep kafka consumer running to read for messages published using kafka producer api 
 ########Start zookeeper##########
 
 /opt/homebrew/opt/kafka/libexec/bin/zookeeper-server-start.sh /opt/homebrew/opt/kafka/libexec/config/zookeeper.properties
