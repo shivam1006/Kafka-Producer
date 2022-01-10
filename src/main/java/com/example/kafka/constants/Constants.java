@@ -42,6 +42,7 @@ public class Constants {
 
 	public static final String BOOTSTRAP_SERVERS = "127.0.0.1:9092";
 	public static final String TOPIC_NAME = "firsttopic";
+	public static final String GROUP_ID = "myfirstapp";
 
 	
 	/*
@@ -51,6 +52,8 @@ public class Constants {
 	public static final String ID = "id";
 	public static final String CATEGORY = "category";
 	public static final String NAME = "name";
+
+	
 
 	
    
